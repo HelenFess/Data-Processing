@@ -21,7 +21,7 @@ form.main-form fieldset{
 form.main-form legend{
   border-left:1px solid #ccc;
   border-right:1px solid #ccc;
-  margin-left:.5px
+  margin-left:.5px;
   padding: 0.2em .5em;
 }
 
